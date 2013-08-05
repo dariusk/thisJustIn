@@ -1,0 +1,31 @@
+{
+  "name": "mediaNews",
+  "description": "The best project ever.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/dariusk/mediaNews",
+  "author": {
+    "name": "Darius Kazemi",
+    "email": "darius.kazemi@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dariusk/mediaNews.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dariusk/mediaNews/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/dariusk/mediaNews/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-watch": "~0.4.0"
+  },
+  "keywords": []
+}
